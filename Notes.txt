@@ -1,0 +1,13 @@
+blockchains store data in blocks that are then chained together
+
+For Bitcoin, this blockchain is just a specific type of database that stores every Bitcoin transaction ever made. 
+
+Example of cryptocurrency : ShivamCoin (SC)
+transaction example 
+t1 : Raj sends Ram 2 SC
+t2 : Ram sends Ravi 4.3 SC
+t3 : Sam send Dan 3.2 SC
+these transaction cam be stored in a block 
+
+block example
+b1("AAA",t1,t2,t3) -> 76fd89(hash) hash result of b1 
